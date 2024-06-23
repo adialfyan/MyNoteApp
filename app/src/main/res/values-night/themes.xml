@@ -1,0 +1,6 @@
+<resources>
+
+    <style name="Theme.MyNoteApp" parent="Theme.Material3.DayNight">
+
+    </style>
+</resources>
